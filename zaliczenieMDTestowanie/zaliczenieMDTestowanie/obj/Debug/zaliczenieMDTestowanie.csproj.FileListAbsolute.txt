@@ -1,0 +1,36 @@
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\nunit.engine.dll
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\nunit.engine.api.dll
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\zaliczenieMDTestowanie.dll
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\zaliczenieMDTestowanie.pdb
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\nunit.framework.dll
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\WebDriver.dll
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\WebDriver.Support.dll
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\nunit.framework.pdb
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\nunit.framework.xml
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\WebDriver.xml
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\WebDriver.Support.xml
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\obj\Debug\zaliczenieMDTestowanie.csprojAssemblyReference.cache
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\obj\Debug\zaliczenieMDTestowanie.csproj.CoreCompileInputs.cache
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\obj\Debug\zaliczenieMDTestowanie.csproj.CopyComplete
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\obj\Debug\zaliczenieMDTestowanie.dll
+C:\Users\luki9\source\repos\zaliczenieMDTestowanie\zaliczenieMDTestowanie\obj\Debug\zaliczenieMDTestowanie.pdb
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\nunit.engine.dll
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\nunit.engine.api.dll
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\zaliczenieMDTestowanie.dll
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\zaliczenieMDTestowanie.pdb
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\nunit.framework.dll
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\WebDriver.dll
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\WebDriver.Support.dll
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\nunit.framework.pdb
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\nunit.framework.xml
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\WebDriver.xml
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\bin\Debug\WebDriver.Support.xml
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\obj\Debug\zaliczenieMDTestowanie.csprojAssemblyReference.cache
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\obj\Debug\zaliczenieMDTestowanie.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\obj\Debug\zaliczenieMDTestowanie.csproj.CopyComplete
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\obj\Debug\zaliczenieMDTestowanie.dll
+C:\Users\Mateusz Dec\Desktop\zaliczenieMDTestowanie\zaliczenieMDTestowanie\obj\Debug\zaliczenieMDTestowanie.pdb
