@@ -1,2 +1,2 @@
 # Project-Testowanie-strony
-Testowanie strony internetowej, sprawdzenie funkcjonalności strony
+Testing the website, checking the functionality of the website
